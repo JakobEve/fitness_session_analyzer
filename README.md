@@ -70,7 +70,7 @@ No third-party packages are required
 
 ```bash
 git clone https://github.com/JakobEve/fitness_session_analyzer.git
-cd REPOSITORY
+cd fitness_session_analyzer
 python main.py
 ```
 
