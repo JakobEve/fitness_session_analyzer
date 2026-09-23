@@ -69,7 +69,7 @@ High activity: average heart rate is more than 45 bpm above baseline
 No third-party packages are required
 
 ```bash
-git clone skrive lenken her
+git clone https://github.com/JakobEve/fitness_session_analyzer.git
 cd REPOSITORY
 python main.py
 ```
